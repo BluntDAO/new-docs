@@ -75,10 +75,22 @@ const config: Config = {
     metadata: [
       {name: 'keywords', content: 'BluntDAO, Proof of Sesh, Web3, DAO, NFT, Cannabis, Blockchain, DeFi'},
       {name: 'description', content: 'BluntDAO Documentation - The mission to make sure blunts get smoked. Onboarding the next million, 1 blunt/sesh at a time.'},
+      // Open Graph meta tags
+      {property: 'og:title', content: 'BluntDAO Documentation'},
+      {property: 'og:description', content: 'The mission to make sure blunts get smoked. Onboarding the next million, 1 blunt/sesh at a time.'},
+      {property: 'og:image', content: 'https://docs.bluntdao.org/img/bluntdaobanner.jpeg'},
+      {property: 'og:image:alt', content: 'BluntDAO Banner'},
+      {property: 'og:type', content: 'website'},
+      {property: 'og:url', content: 'https://docs.bluntdao.org'},
+      {property: 'og:site_name', content: 'BluntDAO Documentation'},
+      // Twitter meta tags
       {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:site', content: '@BluntDAO'},
+      {name: 'twitter:creator', content: '@BluntDAO'},
       {name: 'twitter:title', content: 'BluntDAO Documentation'},
       {name: 'twitter:description', content: 'The mission to make sure blunts get smoked. Onboarding the next million, 1 blunt/sesh at a time.'},
-      {name: 'twitter:image', content: 'img/bluntdaobanner.jpeg'},
+      {name: 'twitter:image', content: 'https://docs.bluntdao.org/img/bluntdaobanner.jpeg'},
+      {name: 'twitter:image:alt', content: 'BluntDAO Banner'},
     ],
     navbar: {
       logo: {
