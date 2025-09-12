@@ -78,7 +78,7 @@ const config: Config = {
       {name: 'twitter:card', content: 'summary_large_image'},
       {name: 'twitter:title', content: 'BluntDAO Documentation'},
       {name: 'twitter:description', content: 'The mission to make sure blunts get smoked. Onboarding the next million, 1 blunt/sesh at a time.'},
-      {name: 'twitter:image', content: 'https://docs.bluntdao.org/img/bluntdaobanner.jpeg'},
+      {name: 'twitter:image', content: 'img/bluntdaobanner.jpeg'},
     ],
     navbar: {
       logo: {
