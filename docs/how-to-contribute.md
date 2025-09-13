@@ -18,11 +18,11 @@ Are you a validator
 
 Fund the treasury
 
-* Mint the daily auction blunts.wtf to gain the NFT and have a say on what the sesh fund  will fund
+* Mint the daily auction [blunts.wtf](https://blunts.wtf) to gain the NFT and have a say on what the sesh fund  will fund
 
 Are you a dev?
 
-* Put in a proposal to expand proof of sesh and build tools to scale BluntDAO
+* Put in a proposal to expand proof of sesh and build tools to scale BluntDAO & check out our [github](https://github.com/bluntdao)
 
 Are you a creative?
 
@@ -42,6 +42,6 @@ Are you a marketer?
 
 [Event Playbook](https://bluntdao.org/event-playbook)
 
-To contribute to the docs directly make a PR at [https://github.com/BluntDAO/docs](https://github.com/BluntDAO/docs)
+To contribute to the docs directly make a PR at [https://github.com/BluntDAO/new-docs](https://github.com/BluntDAO/new-docs)
 
 To contribute to the web app make a PR at [https://github.com/BluntDAO/bluntdao-app](https://github.com/BluntDAO/bluntdao-app)
