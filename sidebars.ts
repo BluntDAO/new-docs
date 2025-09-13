@@ -33,12 +33,13 @@ const sidebars: SidebarsConfig = {
         'the-unlimited-sesh-fund/putting-in-a-proposal',
         'the-unlimited-sesh-fund/secondary-sales',
         'the-unlimited-sesh-fund/setting-up-an-auction-bot',
+        'the-unlimited-sesh-fund/global-sesh-day',
       ],
     },
     'how-to-start-a-sesh',
     'how-to-contribute',
-    'addictionary',
     'ecosystem',
+    'addictionary',
   ],
 };
 
