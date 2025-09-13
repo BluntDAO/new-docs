@@ -121,22 +121,10 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://github.com/BluntDAO',
-          position: 'right',
-          className: 'header-github-link',
-          'aria-label': 'GitHub repository',
-        },
-        {
           href: 'https://x.com/BluntDAO',
           position: 'right',
           className: 'header-twitter-link',
           'aria-label': 'X (Twitter)',
-        },
-        {
-          href: 'https://bento.me/blunt',
-          position: 'right',
-          className: 'header-links-link',
-          'aria-label': 'All Links',
         },
       ],
     },
@@ -181,17 +169,18 @@ const config: Config = {
           title: 'More',
           items: [
             {
+              label: 'Website',
+              href: 'https://bluntdao.com',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/BluntDAO',
             },
             {
-              label: 'Blunts.WTF',
+              label: 'blunts.wtf',
               href: 'https://blunts.wtf',
             },
-            {
-              label: 'App',
-              href: 'https://app.bluntdao.com',
-            },
+
           ],
         },
       ],
