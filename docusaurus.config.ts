@@ -72,6 +72,10 @@ const config: Config = {
   themeConfig: {
     // BluntDAO social card
     image: 'img/bluntdaobanner.jpeg',
+    // Use custom footer
+    footer: {
+      style: 'dark',
+    },
     metadata: [
       {name: 'keywords', content: 'BluntDAO, Proof of Sesh, Web3, DAO, NFT, Cannabis, Blockchain, DeFi'},
       {name: 'description', content: 'BluntDAO Documentation - The mission to make sure blunts get smoked. Onboarding the next million, 1 blunt/sesh at a time.'},
@@ -130,61 +134,6 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Welcome',
-              to: '/docs/welcome',
-            },
-            {
-              label: 'Proof of Sesh',
-              to: '/docs/proof-of-sesh-explained',
-            },
-            {
-              label: 'Unlimited Sesh Fund',
-              to: '/docs/the-unlimited-sesh-fund',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Forum',
-              href: 'https://forum.bluntdao.org',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/BluntDAO',
-            },
-            {
-              label: 'All Links',
-              href: 'https://bento.me/blunt',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Website',
-              href: 'https://bluntdao.com',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/BluntDAO',
-            },
-            {
-              label: 'blunts.wtf',
-              href: 'https://blunts.wtf',
-            },
-
-          ],
-        },
-      ],
-      copyright: `Rolled with ❤️ by BluntDAO.`,
     },
     prism: {
       theme: prismThemes.github,

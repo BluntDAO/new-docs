@@ -89,7 +89,7 @@ Road to Blunt Olympics, the Acres Solana Summer Camp, Pennsylvania August, 2024
 [View on POAP](https://poap.gallery/drops/176715)
 
 #### Vrbs Coffee & Crypto 1
-![Vrbs Coffee & Crypto 1](/img/vrbssanantonio.jpg)
+![Vrbs Coffee & Crypto 1](/img/vrbssanantonio.jpeg)
 A special POAP to signify the first coffee and crypto meet up with Vrbs and BluntDAO. People can be part of BluntDAO history. San Antonio, Texas August 10, 2024
 [View on POAP](https://poap.gallery/drops/176713)
 

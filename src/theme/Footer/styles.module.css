@@ -1,0 +1,49 @@
+.footer {
+  background-color: var(--ifm-footer-background-color);
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  padding: 2rem 0;
+}
+
+.footerContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.socialSection {
+  margin-bottom: 1.5rem;
+}
+
+.socialSection h4 {
+  color: var(--ifm-footer-color);
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.copyright {
+  color: var(--ifm-footer-color);
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.copyright p {
+  margin: 0;
+}
+
+/* Dark theme adjustments */
+[data-theme='dark'] .footer {
+  background-color: var(--ifm-footer-background-color);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .footer {
+    padding: 1.5rem 0;
+  }
+  
+  .socialSection h4 {
+    font-size: 1rem;
+  }
+}
